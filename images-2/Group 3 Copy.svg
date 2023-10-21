@@ -1,0 +1,18 @@
+<svg width="107" height="14" viewBox="0 0 107 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="107" height="14" fill="#F2F2F2"/>
+<g id="Home--Main" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6856" transform="translate(-667 -1126)" fill="white"/>
+<rect id="Rectangle Copy" x="-667" y="-352" width="1440" height="423" fill="#FAFAFA"/>
+<g id="Group 3 Copy">
+<circle id="Oval" cx="7" cy="7" r="7" fill="#717CFF"/>
+<circle id="Oval Copy" cx="40" cy="7" r="5" fill="#7C7C7C" fill-opacity="0.318837"/>
+<circle id="Oval Copy 2" cx="71" cy="7" r="5" fill="#7C7C7C" fill-opacity="0.318837"/>
+<circle id="Oval Copy 3" cx="102" cy="7" r="5" fill="#7C7C7C" fill-opacity="0.318837"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6856" fill="white" transform="translate(-667 -1126)"/>
+</clipPath>
+</defs>
+</svg>
